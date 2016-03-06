@@ -1,0 +1,28 @@
+name: carnford
+favicon: null
+layout_spectrum: 0.9795483245979995
+typography_spectrum: 0.36552596441470087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49850965780206025
+  lightness: 0.27718219556845725
+  saturation: 0.9742743952665478
+  rhythmicContrast: 0.9802582669071853
+purpose: []
